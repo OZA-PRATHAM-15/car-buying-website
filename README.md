@@ -38,6 +38,11 @@ The application will start running, and you can access it at `http://localhost:5
 - mongoose: MongoDB object modeling tool designed to work in an asynchronous environment.
 - handlebars: A popular templating engine for building dynamic web pages.
 
+##Screenshots
+![Homepage](docs/assets/admin_home_.png)
+![adminlogin](docs/assets/gas.png)
+
+![adminlogin](docs/assets/electric.png)
 ![adminlogin](docs/assets/admin_login.png)
 ## Contributing
 
