@@ -40,9 +40,9 @@ The application will start running, and you can access it at `http://localhost:5
 
 ##Screenshots
 ![Homepage](docs/assets/admin_home_.png)
-![adminlogin](docs/assets/gas.png)
+![gas](docs/assets/gas.png)
 
-![adminlogin](docs/assets/electric.png)
+![electric](docs/assets/electric.png)
 ![adminlogin](docs/assets/admin_login.png)
 ## Contributing
 
